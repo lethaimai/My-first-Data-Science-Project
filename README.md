@@ -1,5 +1,3 @@
-# My-first-Data-Science-Project
-
 # My first Data Science Project
 
 From April 2005 to September 2005, the [UCI Default of Credit Card Clients Dataset](https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients) 
