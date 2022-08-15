@@ -11,7 +11,6 @@ The analysis is divided into different steps:
 * Data exploration: description of the attributes and understanding of each features;
 * Data cleaning: processing of data that involves correction of errors, outlier detection, analysis of correlation;
 * Correlation and dimensionality reduction: analysis of correlated features and application of F-test to choose the best features;
-* Class imbalancing managment: application of some tecninques for managing imbalancing in classes;
 * Classification algorithms and Decision Trees ,and metrics for evaluation;
 * Comments on results achieved.
 
