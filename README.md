@@ -4,12 +4,6 @@ From April 2005 to September 2005, the [UCI Default of Credit Card Clients Datas
 contains information about default payments, demographic factors, credit data, and 
 payment history of Taiwanese credit card clients.
 
-The repository containes three folders:
-
-* ***dataset*** folder with the Default of Credit Card Clients dataset
-* ***imgs*** folder, that containes all the images for the report
-*  ***results*** folder, in which all the results are stored
-
 
 The analysis is divided into different steps:
 
